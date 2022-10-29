@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Rick Wang
     tagline: Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Rick.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: haoran14@illinois.edu
@@ -17,31 +17,25 @@ sidebar:
     timezone: America/Central Timezone
     linkedin: https://www.linkedin.com/in/haoran-rick-wang-064793192/
     github: rickwang222
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1apaaXc3h9tVWhugLI2FTkf053qDNvMm3/view?usp=sharing
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Chiness
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Lego
 
         - item: Snowboarding
-          link:
 
-        - item: Cooking
-          link:
+        - item: Boxing
+        
+        - item: Swimming
 
 career-profile:
     title: Career Profile
@@ -55,9 +49,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master in Computer Science
+        university: University of Illinois Urbana-Champaign
+        time: 2022 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +60,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelor of Computer Engineering
+        university: University of Minnesota Twin Cities
+        time: 2017 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
