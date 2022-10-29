@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Rick Wang
     tagline: Developer
-    avatar: Rick.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Rick_new.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: haoran14@illinois.edu
@@ -41,9 +41,8 @@ sidebar:
 
 career-profile:
     summary: |
-      Hi, I am a first-year Master's student studying Computer Science. I got my bachelor’s degree in Computer Engineering at the University of Minnesota, 
-      where I was involved in projects across multiple areas, including real-time systems, PCB design, and memory system security, Radar, and RFID,  
-      I’m interested in IoT applications.
+      Hi, I am a Master's student studying Computer Science at UIUC. I got my bachelor’s degree in Computer Engineering at the University of Minnesota, 
+      where I was involved in projects across multiple areas, including real-time systems, PCB design, and memory system security, Radar, and RFID, I’m interested in IoT applications, and Software Engineering.
       
 education:
     title: Education
